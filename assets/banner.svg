@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hamza FADLI</title>
+  <desc id="desc">Apprendre, construire, progresser. Un parcours en informatique qui se construit projet après projet.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#173752"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94a3b8" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="62" y="64" width="5" height="171" rx="2.5" fill="#5eead4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="90" y="88" fill="#5eead4" font-size="15" letter-spacing="4">INFORMATIQUE · PROJETS · EXPLORATION</text>
+    <text x="87" y="157" fill="#f8fafc" font-size="56" font-weight="700">Hamza FADLI</text>
+    <text x="90" y="202" fill="#cbd5e1" font-size="24">Apprendre. Construire. Progresser.</text>
+    <text x="90" y="238" fill="#94a3b8" font-size="16">Un parcours qui se construit, projet après projet.</text>
+    <text x="960" y="179" fill="#5eead4" opacity=".32" font-family="Consolas, monospace" font-size="96">{ }</text>
+  </g>
+</svg>
+
