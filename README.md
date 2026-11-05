@@ -28,12 +28,15 @@ Je construis progressivement mon parcours autour de la programmation, de la rés
 
 ### Premières réalisations
 
-Deux projets pour mettre en pratique les bases du C et la programmation graphique avec **raylib**.
+Quelques projets personnels pour pratiquer la programmation en C et la création de pages web interactives.
 
 | Projet | Présentation | Notions travaillées |
 | :--- | :--- | :--- |
+| [Mon espace étudiant](https://7amzvv.github.io/tableau-etudiant/accueil.html) | Petit tableau de bord pour ajouter des tâches et suivre les échéances. | Pages HTML, formulaires, CSS responsive et sauvegarde locale en JavaScript. |
 | [Snake](https://github.com/7amzvv/snake-c) | Jeu au clavier avec score et historique de la session. | Boucle de jeu, déplacements, collisions et tableaux. |
 | [Memory](https://github.com/7amzvv/memory-c) | Jeu de paires colorées avec 8, 16 ou 32 cartes. | Mélange aléatoire, gestion des états, interface et tests. |
+
+Le code source du tableau de bord se trouve dans le dépôt [tableau-etudiant](https://github.com/7amzvv/tableau-etudiant).
 
 ### La suite
 
@@ -44,4 +47,3 @@ Les prochains projets viendront enrichir ce profil au fil de leur réalisation.
 ---
 
 <p align="center"><sub>Hamza FADLI · Apprendre avec curiosité, avancer avec régularité.</sub></p>
-
