@@ -34,6 +34,7 @@ Quelques projets personnels pour pratiquer la programmation en C et la création
 | :--- | :--- | :--- |
 | [Mon espace étudiant](https://7amzvv.github.io/tableau-etudiant/accueil.html) | Petit tableau de bord pour ajouter des tâches et suivre les échéances. | Pages HTML, formulaires, CSS responsive et sauvegarde locale en JavaScript. |
 | [Simulateur de moyenne universitaire](https://github.com/7amzvv/simulateur-moyenne) · [Démo](https://7amzvv.github.io/simulateur-moyenne/) | Outil web pour gérer des matières, calculer une moyenne pondérée et simuler une note cible. | HTML, CSS responsive, JavaScript, DOM, localStorage et moyenne pondérée. |
+| [Budget étudiant](https://github.com/7amzvv/budget-etudiant) | Application de bureau pour gérer les revenus, dépenses, solde mensuel et dépenses par catégorie. | Python, Tkinter, SQLite, requêtes paramétrées et tests unitaires. |
 | [Snake](https://github.com/7amzvv/snake-c) | Jeu au clavier avec score et historique de la session. | Boucle de jeu, déplacements, collisions et tableaux. |
 | [Memory](https://github.com/7amzvv/memory-c) | Jeu de paires colorées avec 8, 16 ou 32 cartes. | Mélange aléatoire, gestion des états, interface et tests. |
 
